@@ -2,6 +2,8 @@
 
  /* declarações Gerais */
 
+@media all {
+
  * {
     margin: 0px;
     padding: 0px;
@@ -21,6 +23,7 @@ h1 {
     padding: 10px;
 }
 
+}
         /* declarações retrato */
 @media screen and (orientation: portrait) {
 
